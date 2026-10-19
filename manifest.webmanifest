@@ -1,0 +1,20 @@
+{
+  "name": "カラオケ居酒屋 桃ちゃんち",
+  "short_name": "桃ちゃんち",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#FFF7F2",
+  "theme_color": "#B23A49",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
