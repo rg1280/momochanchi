@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rg1280.github.io/momochanchi/sitemap.xml
